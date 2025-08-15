@@ -1,0 +1,105 @@
+
+@font-face {
+font-family: "Roboto";
+src: url("static/Roboto-Regular.ttf"); 
+}
+@font-face {
+font-family: "Roboto";
+src: url("static/Roboto-SemiBold.ttf"); 
+}
+
+@font-face {
+font-family: "Kdam Thmor";
+src: url("static/Kdam-Thmor-Regular.ttf"); 
+}
+
+
+.hn{
+  margin-top: 1rem;
+  color: #FFF;
+font-family: Roboto;
+font-size: 15px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+ .dnt{
+    color: #A2A2A2;
+font-family: Kdam Thmor;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  .dnt-2{
+
+    color: #A2A2A2;
+font-family: Kdam Thmor;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+    margin-left: .5rem;
+  }
+  .trow{
+    min-height: 66px;
+    padding: 15px;
+    border-radius: 10px;
+border: 1px solid #383838;
+background: #1E1E1E;
+margin-bottom: 1rem;
+  }
+  .trow-i{
+    height: 51px; 
+  }
+  .subject{
+    color: #FFF;
+font-family: Roboto;
+font-size: 10px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-bottom: .5rem;
+  }
+  .status{
+    color: #FFF;
+font-family: Roboto;
+font-size: 10px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+  }
+  .approved{
+    color: #19DF68;
+font-family: Roboto;
+font-size: 7px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  }
+  .t-amount{
+    color: #FFF;
+font-family: Roboto;
+font-size: 10px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+  }
+  .declined{
+    color: #F71515;
+font-family: Roboto;
+font-size: 7px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  }
+  .pending{
+    color: #DBDF19;
+font-family: Roboto;
+font-size: 7px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  }

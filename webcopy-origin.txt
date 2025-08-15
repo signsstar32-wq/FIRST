@@ -1,0 +1,679 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\npm\bootstrap@4.0.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\npm\bootstrap@4.0.0\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\npm\bootstrap@4.6.2\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\npm\jquery@3.5.1\dist\jquery.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\npm\popper.js@1.12.9\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\npm\popper.js@1.16.1\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.2.1.slim.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.7.0.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\jquery-3.7.0.min.js
+Content Type: application/javascript
+
+Uri: https://equitymarketholdings.ltd/logo.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\logo-1.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/accountUpgrade.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\accountUpgrade.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/assets/accountVerification.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets\accountVerification.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets/personalInformation.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets\personalInformation.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/b.svg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\b.svg
+Content Type: image/svg+xml
+
+Uri: https://equitymarketholdings.ltd/users/assets0/c.svg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\c.svg
+Content Type: image/svg+xml
+
+Uri: https://equitymarketholdings.ltd/users/assets0/custom.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\custom.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/custom.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\custom.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/assets0/deposit.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\deposit.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/deposit.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\deposit.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/assets0/index.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\index.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/m.svg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\m.svg
+Content Type: image/svg+xml
+
+Uri: https://equitymarketholdings.ltd/users/assets0/notify.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\notify.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/notify.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\notify.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/assets0/profile.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\profile.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/promise-polyfill.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\promise-polyfill.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/assets0/signalpackage.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\signalpackage.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/assets0/t6.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\t6.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/trader.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\trader.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/assets0/tradinglive.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\tradinglive.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/assets0/transact.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\assets0\transact.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/buy-crypto.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\buy-crypto.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/calender.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\calender.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/css/responsive.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\css\responsive.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/css/style.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\css\style.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/css/typography.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\css\typography.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/users/dashboard.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\dashboard.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/deposit.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\deposit.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/idv.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\idv.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/insurance.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\insurance.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/js/animated.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\animated.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/apexcharts.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\apexcharts.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/chart-custom.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\chart-custom.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/charts.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\charts.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/core.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\core.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/countdown.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\countdown.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/custom.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\custom.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\jquery.appear.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\jquery.counterup.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/kelly.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\kelly.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/lottie.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\lottie.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/maps.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\maps.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/select2.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\select2.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/slick.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\slick.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/smooth-scrollbar.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\smooth-scrollbar.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/style-customizer.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\style-customizer.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/worldLow.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\worldLow.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/js/wow.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\js\wow.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/Live-charts.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\Live-charts.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/live-qoutes.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\live-qoutes.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/profile.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\profile.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/script/jquery.min.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\script\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/users/signal-package.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\signal-package.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/trader.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\trader.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_686f13bb61971.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_686f13bb61971.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_68812f4da4725.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_68812f4da4725.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_TR08UDHSP1.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_TR08UDHSP1.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_TR1DTP6I8S.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_TR1DTP6I8S.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_TR1ILM5PXR.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_TR1ILM5PXR.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_TR8HK7GWZI.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_TR8HK7GWZI.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_TRAFBL0NOS.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_TRAFBL0NOS.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_TRJEOXA4NK.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_TRJEOXA4NK.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/traderuploads/tr_TRR1DPYJUZ.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\traderuploads\tr_TRR1DPYJUZ.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/users/trading-live.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\trading-live.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/trading-stock.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\trading-stock.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/transactions.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\transactions.php.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/users/withdrawal.php
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\users\withdrawal.php.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\css-4
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-events.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-events.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-hotlists.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-hotlists.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-market-overview.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-screener.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-screener.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-single-quote.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-technical-analysis.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-tickers.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-tickers.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/tv.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\tv.js
+Content Type: text/javascript
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\translate_a\element-1.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\@popperjs\core@2.11.8\dist\umd\popper.js
+Content Type: text/javascript
+
+marketholdings.ltd\home\Home\Plan.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/home/Home/Terms.html
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\Home\Terms.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/home/img/after.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\after.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/img/ava.jpg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\ava.jpg
+Content Type: image/jpeg
+
+Uri: https://equitymarketholdings.ltd/home/img/ava2.jpg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\ava2.jpg
+Content Type: image/jpeg
+
+Uri: https://equitymarketholdings.ltd/home/img/ava3.jpg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\ava3.jpg
+Content Type: image/jpeg
+
+Uri: https://equitymarketholdings.ltd/home/img/ava4.html
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\ava4.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/home/img/bg1.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\bg1.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/img/bg11.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\bg11.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/img/DD.jpg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\DD.jpg
+Content Type: image/jpeg
+
+Uri: https://equitymarketholdings.ltd/home/img/s1_triangle1.svg
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\s1_triangle1.svg
+Content Type: image/svg+xml
+
+Uri: https://equitymarketholdings.ltd/home/img/search.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\img\search.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/index.html
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\index.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/home/js/common.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\js\common.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/home/js/libs.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\js\libs.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/home/lib/jquery/dist/jquery.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\lib\jquery\dist\jquery.js
+Content Type: text/javascript
+
+Uri: https://equitymarketholdings.ltd/home/libs/animsition/animsition.min.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\animsition\animsition.min.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/home/libs/bootstrap/css/bootstrap-grid.min.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/home/libs/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://equitymarketholdings.ltd/home/libs/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://equitymarketholdings.ltd/home/libs/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://equitymarketholdings.ltd/home/libs/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://equitymarketholdings.ltd/home/libs/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e3e6e.woff
+Content Type: font/woff
+
+Uri: https://equitymarketholdings.ltd/home/libs/font-awesome-4.7.0/fonts/fontawesome-webfontd41dd41d.eot?
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\font-awesome-4.7.0\fonts\fontawesome-webfontd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://equitymarketholdings.ltd/home/libs/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1dbb1d.eot?d7yf1v
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\pe-icon-7-stroke\fonts\Pe-icon-7-strokebb1dbb1d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://equitymarketholdings.ltd/home/libs/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1dbb1d.svg?d7yf1v
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\pe-icon-7-stroke\fonts\Pe-icon-7-strokebb1dbb1d.svg
+Content Type: image/svg+xml
+
+Uri: https://equitymarketholdings.ltd/home/libs/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1dbb1d.ttf?d7yf1v
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\pe-icon-7-stroke\fonts\Pe-icon-7-strokebb1dbb1d.ttf
+Content Type: font/ttf
+
+Uri: https://equitymarketholdings.ltd/home/libs/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1dbb1d.woff?d7yf1v
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\pe-icon-7-stroke\fonts\Pe-icon-7-strokebb1dbb1d.woff
+Content Type: font/woff
+
+Uri: https://equitymarketholdings.ltd/home/libs/pe-icon-7-stroke/fonts/Pe-icon-7-stroked41dd41d.eot?
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\pe-icon-7-stroke\fonts\Pe-icon-7-stroked41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://equitymarketholdings.ltd/home/libs/superfish-master/css/superfish.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\superfish-master\css\superfish.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/home/libs/ytp-player/css/font/ytp-regular.eot
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\ytp-player\css\font\ytp-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://equitymarketholdings.ltd/home/libs/ytp-player/css/font/ytp-regular.woff
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\ytp-player\css\font\ytp-regular.woff
+Content Type: font/woff
+
+Uri: https://equitymarketholdings.ltd/home/libs/ytp-player/css/images/raster%402x.html
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\ytp-player\css\images\raster@2x.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/home/libs/ytp-player/css/images/raster.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\ytp-player\css\images\raster.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/libs/ytp-player/css/images/raster_dot%402x.html
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\ytp-player\css\images\raster_dot@2x.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/home/libs/ytp-player/css/images/raster_dot.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\ytp-player\css\images\raster_dot.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/libs/ytp-player/css/jquery.mb.YTPlayer.min.css
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\libs\ytp-player\css\jquery.mb.YTPlayer.min.css
+Content Type: text/css
+
+Uri: https://equitymarketholdings.ltd/home/logo-mini1.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\logo-mini1.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/logo.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\logo.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/logo1.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\logo1.png
+Content Type: image/png
+
+Uri: https://equitymarketholdings.ltd/home/videos/hotforex.html
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\home\videos\hotforex.html
+Content Type: text/html
+
+Uri: https://equitymarketholdings.ltd/logo.png
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\logo.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Nunito
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v31/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\nunito\v31\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\poppins\v23\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-advanced-chart.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\external-embedding\embed-widget-ticker-tape.js
+Content Type: text/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\beacon.min.js\v652eace1692a40cfa3763df669d7439c1639079717194
+Content Type: text/javascript
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\equitymarketholdings.ltd\translate_a\element.js
+Content Type: text/javascript
+

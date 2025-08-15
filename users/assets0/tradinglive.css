@@ -1,0 +1,293 @@
+
+
+@font-face {
+font-family: "Roboto";
+src: url("../assets5/static/Roboto-Regular.ttf"); 
+}
+@font-face {
+font-family: "Roboto";
+src: url("../assets5/static/Roboto-SemiBold.ttf"); 
+}
+
+@font-face {
+font-family: "Kdam Thmor";
+src: url("../assets5/static/Kdam-Thmor-Regular.ttf"); 
+}
+
+
+.h10{
+	color: #FFF;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.p10{
+	color: #FFF;
+font-family: Roboto;
+font-size: 7px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.no-p2{
+	padding-right: 1.5px; 
+}
+.no-pr{
+	padding-right: 5px;
+}
+.no-pl{
+	padding-left: 5px;
+}
+.no-p{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.label-t{
+	color: #FFF;
+font-family: Kdam Thmor;
+font-size: 8px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+margin-bottom: 5px;
+}
+
+.on{
+	background-size: contain;
+	background-repeat: no-repeat; 
+color: #fff;
+width: 100%;
+background: #1B1B1B;
+border: 1px solid  #383838;
+border-radius: 10px;
+/*background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='46' viewBox='0 0 128 46' fill='none'%3E%3Crect x='0.5' y='0.5' width='127' height='45' rx='9.5' fill='%231B1B1B' stroke='%23383838'/%3E%3C/svg%3E");
+*/padding: 1rem;
+
+flex-shrink: 0;
+display: flex;
+justify-content: center;
+height: 56px;
+}
+@media screen and (max-width: 480px) {
+  .on {
+    padding: .5rem;
+     
+  }
+}
+
+
+.on select{ 
+	background:transparent;
+	color: #fff;
+	outline: none;
+	border-color: transparent;
+	width: 79px;
+
+	color: #A2A2A2;
+font-family: 'Kdam Thmor';
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 100%;
+text-align: center;
+
+-webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: '';
+}
+.on select::-ms-expand {
+  display: none;
+}
+
+
+.on input{ 
+background:transparent;
+color: #fff;
+outline: none; 
+border-color: transparent;
+
+color: #A2A2A2;
+font-family: 'Kdam Thmor';
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+width: 100%;
+text-align: center;
+
+}
+
+.on select:focus{
+    outline: none;
+	border-color: transparent;
+}
+.on input:focus{
+    outline: none;
+    border-color: transparent;
+}
+
+
+.btns{
+
+	background-size:contain;
+	background-repeat: no-repeat; 
+color: #fff;
+width: 100% !important;
+ 
+height: 59px;
+flex-shrink: 0;
+
+display: flex;
+justify-content: center;
+
+
+} 
+.btn-g{
+	background: #28A745;/*
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='190' height='59' viewBox='0 0 190 59' fill='none'%3E%3Crect width='190' height='59' rx='9' fill='%2328A745'/%3E%3C/svg%3E");
+*/
+border-radius: 14px;
+}
+.btn-r{
+	background: #F71515;/*
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='190' height='59' viewBox='0 0 190 59' fill='none'%3E%3Crect width='190' height='59' rx='9' fill='%23F71515'/%3E%3C/svg%3E");
+*/
+border-radius: 14px;
+}
+.btns input{
+	background: transparent;
+	border-color: transparent;
+
+	color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 100%;
+cursor: pointer;
+}
+
+body {
+ background: #000000;
+}
+
+.active-t{
+	width: 100%; 
+flex-shrink: 0;
+padding: 16px;
+margin-top: 1rem;
+padding-top: 1.5rem;
+padding-bottom: 1.5rem;
+
+
+border-radius: 6px;
+background: #1B1B1B;
+margin-bottom: 1rem;
+}
+.active-t-ls{
+	color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-top: .2rem;
+padding-bottom: .2rem;
+
+}
+.active-t-rs{
+	color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-top: .2rem;
+padding-bottom: .2rem;
+}
+.close-t{
+	width: 100%;
+height: 53px;
+flex-shrink: 0;
+border-radius: 7px;
+background: #F71515; 
+
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+margin-top: 1rem;
+
+color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+
+.empty-t{
+	width: 100%;
+height: 199px;
+flex-shrink: 0;
+
+
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+margin-top: 1rem;
+
+border-radius: 6px;
+background: #1B1B1B;
+
+	}
+
+	.empty-t .m{
+		color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+	}
+
+
+.ph{
+	 
+ border-radius: 50%;
+ height: 40px;
+ width: 40px;
+ overflow: hidden;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+
+}
+
+.ph img{
+ width: 40px;
+}
+.content {
+  max-width: 500px;
+  height: 100vh;
+  overflow-y: scroll;
+  margin: auto;
+  color: white;
+  padding: 10px;
+}
+
+.content::-webkit-scrollbar {
+    display: none;
+}
